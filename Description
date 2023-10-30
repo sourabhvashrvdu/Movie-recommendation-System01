@@ -1,0 +1,6 @@
+Movie Recommendation System...
+
+Recommender System is a system that seeks to pridict or filter preferences according to the user's choice. Recommendation systems are utilized in a variety of areas includiing movies, 
+news,books, research articles , search queries, social tags, and products in general. Recommendation systems produce a list of recommendations in any of the two ways:-
+a. Collaborative Filtering.
+b. Content-based filtering.
